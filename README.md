@@ -30,7 +30,7 @@ I’m Aline, also known as Precious. I thrive at the intersection of **diplomacy
 
 ## 🌟 Featured Projects
 
-### 1. [CryptoTools — Hill Cipher & Cryptanalysis Suite (R)](https://github.com/aline-precious/CryptoTools) 🔐
+### 1. [CryptoTools — Hill Cipher & Cryptanalysis Suite (R)](https://github.com/aline-precious/CryptoToolsR) 🔐
 A hands-on R toolkit for exploring **matrix-based cryptography** (Hill cipher) and basic cryptanalysis. Encrypt, decrypt, analyze, and attempt key recovery.  
 
 **Why It Matters:**  
@@ -43,7 +43,7 @@ A hands-on R toolkit for exploring **matrix-based cryptography** (Hill cipher) a
 
 ---
 
-### 2. [Time Series Analysis Report](https://github.com/aline-precious/TimeSeriesProj) 📈
+### 2. [Time Series Analysis Report](https://github.com/aline-precious/Time-Series-Analysis) 📈
 A reproducible **RStudio project for time series analysis** using CO2 sample data.  
 
 **Features:**  
